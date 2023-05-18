@@ -1,6 +1,6 @@
 ## Update your device firmware
 
-fw-updater: a GUI firmware updator front end.
+fw-updater: a GUI firmware updater front end.
 
 This **web application** runs in your browser and will interface with your devices over any supported link to facilitate the firmware update process.
 
